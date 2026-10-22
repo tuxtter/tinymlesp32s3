@@ -1,0 +1,4 @@
+train/out/
+firmware/build/
+firmware/managed_components/
+.venv/
